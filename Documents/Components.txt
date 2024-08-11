@@ -1,0 +1,7 @@
+- Microcontroller : PIC18F05Q20-I/SL 8 bits - MCU 32KB Flash, 2K RAM, 256 EEPROM, I3C, MVIO 10b ADCC, 8b DAC, DMA, 16-bit PWM, PPS, UART, SPI/I2C, 11 GPIO
+
+- 4 Digit Display: LTC-5723HR
+
+- I/O I2C Expander: PCA9505DGGY, 40 I/O, I2C, 400 kHz, 2.3-5.5V
+
+- Push button: PS1024ABLK, 2 thr pins
