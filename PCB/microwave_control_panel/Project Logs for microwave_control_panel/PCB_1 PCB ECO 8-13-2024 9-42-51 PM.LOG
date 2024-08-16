@@ -1,0 +1,47 @@
+Change Physical Footprint: Designator=C1 Old Footprint=0805_AVX New Footprint=0805_AVX
+Change Physical Footprint: Designator=C2 Old Footprint=0805_AVX New Footprint=0805_AVX
+Change Physical Footprint: Designator=C3 Old Footprint=CAP_08051A0R8CAT2A_AVX New Footprint=CAP_08051A0R8CAT2A_AVX
+Change Physical Footprint: Designator=C4 Old Footprint=0805_AVX New Footprint=0805_AVX
+Change Physical Footprint: Designator=C5 Old Footprint=0805_AVX New Footprint=0805_AVX
+Change Physical Footprint: Designator=C6 Old Footprint=0805_AVX New Footprint=0805_AVX
+Change Physical Footprint: Designator=C7 Old Footprint=0805_AVX New Footprint=0805_AVX
+Change Physical Footprint: Designator=C8 Old Footprint=0805_AVX New Footprint=0805_AVX
+Change Physical Footprint: Designator=C9 Old Footprint=0805_AVX New Footprint=0805_AVX
+Change Physical Footprint: Designator=C10 Old Footprint=0805_AVX New Footprint=0805_AVX
+Change Physical Footprint: Designator=C11 Old Footprint=0805_AVX New Footprint=0805_AVX
+Change Physical Footprint: Designator=H1 Old Footprint=1 pin header New Footprint=1 pin header
+Change Physical Footprint: Designator=H2 Old Footprint=1 pin header New Footprint=1 pin header
+Change Physical Footprint: Designator=H3 Old Footprint=1 pin header New Footprint=1 pin header
+Change Physical Footprint: Designator=H4 Old Footprint=1 pin header New Footprint=1 pin header
+Change Physical Footprint: Designator=H5 Old Footprint=1 pin header New Footprint=1 pin header
+Change Physical Footprint: Designator=J1 Old Footprint=PJ-002A_CUD New Footprint=PJ-002A_CUD
+Change Physical Footprint: Designator=LED1 Old Footprint=LED_VS75300_WRE New Footprint=LED_VS75300_WRE
+Change Physical Footprint: Designator=LS1 Old Footprint=CMI-9605IC_CUD New Footprint=CMI-9605IC_CUD
+Change Physical Footprint: Designator=R1 Old Footprint=0805_VIS New Footprint=0805_VIS
+Change Physical Footprint: Designator=R2 Old Footprint=RES_1220_SUS New Footprint=RES_1220_SUS
+Change Physical Footprint: Designator=R3 Old Footprint=RES_1220_SUS New Footprint=RES_1220_SUS
+Change Physical Footprint: Designator=R4 Old Footprint=RES_1220_SUS New Footprint=RES_1220_SUS
+Change Physical Footprint: Designator=R5 Old Footprint=RES_1220_SUS New Footprint=RES_1220_SUS
+Change Physical Footprint: Designator=R6 Old Footprint=RES_1220_SUS New Footprint=RES_1220_SUS
+Change Physical Footprint: Designator=R7 Old Footprint=RES_1220_SUS New Footprint=RES_1220_SUS
+Change Physical Footprint: Designator=R8 Old Footprint=RES_1220_SUS New Footprint=RES_1220_SUS
+Change Physical Footprint: Designator=R9 Old Footprint=RES_1220_SUS New Footprint=RES_1220_SUS
+Change Physical Footprint: Designator=R10 Old Footprint=RES_1220_SUS New Footprint=RES_1220_SUS
+Change Physical Footprint: Designator=R11 Old Footprint=0805_VIS New Footprint=0805_VIS
+Change Physical Footprint: Designator=R12 Old Footprint=0805_VIS New Footprint=0805_VIS
+Change Physical Footprint: Designator=R13 Old Footprint=0805_VIS New Footprint=0805_VIS
+Change Physical Footprint: Designator=R14 Old Footprint=0805_VIS New Footprint=0805_VIS
+Change Physical Footprint: Designator=R15 Old Footprint=0805_VIS New Footprint=0805_VIS
+Change Physical Footprint: Designator=R16 Old Footprint=0805_VIS New Footprint=0805_VIS
+Change Physical Footprint: Designator=R17 Old Footprint=0805_VIS New Footprint=0805_VIS
+Change Physical Footprint: Designator=RSW1 Old Footprint=GP56010-15 New Footprint=GP56010-15
+Change Physical Footprint: Designator=SW1 Old Footprint=TS02-66-160-BK-100-LCR-D New Footprint=TS02-66-160-BK-100-LCR-D
+Change Physical Footprint: Designator=U1 Old Footprint=288T232R161A1 New Footprint=288T232R161A1
+Change Physical Footprint: Designator=U2 Old Footprint=288T232R161A1 New Footprint=288T232R161A1
+Change Physical Footprint: Designator=U3 Old Footprint=SC-70_C5_MCH New Footprint=SC-70_C5_MCH
+Change Physical Footprint: Designator=U4 Old Footprint=SOT-23-5-DBV_TEX New Footprint=SOT-23-5-DBV_TEX
+Change Physical Footprint: Designator=U5 Old Footprint=SOT_SM712 New Footprint=SOT_SM712
+Change Physical Footprint: Designator=U6 Old Footprint=SOIC20_SO_MCH New Footprint=SOIC20_SO_MCH
+Change Physical Footprint: Designator=U7 Old Footprint=TSSOP24_4P5X7P9_NXP New Footprint=TSSOP24_4P5X7P9_NXP
+Change Physical Footprint: Designator=U8 Old Footprint=TDCG1060M_VIS New Footprint=TDCG1060M_VIS
+Change Physical Footprint: Designator=XO1 Old Footprint=CB3-3C-64M0000 New Footprint=CB3-3C-64M0000
