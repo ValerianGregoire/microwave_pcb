@@ -1,0 +1,358 @@
+Added Component: Designator=C1(0805_AVX)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(0805_AVX)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_08051A0R8CAT2A_AVX)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(0805_AVX)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(0805_AVX)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(0805_AVX)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(0805_AVX)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(0805_AVX)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9(0805_AVX)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10(0805_AVX)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C11(0805_AVX)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "KYOCERA AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=H1(1 pin header)
+Added Component: Designator=H2(1 pin header)
+Added Component: Designator=H3(1 pin header)
+Added Component: Designator=H4(1 pin header)
+Added Component: Designator=H5(1 pin header)
+Added Component: Designator=J1(PJ-002A_CUD)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED_VS75300_WRE)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LS1(CMI-9605IC_CUD)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0805_VIS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_1220_SUS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES_1220_SUS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES_1220_SUS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES_1220_SUS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_1220_SUS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES_1220_SUS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_1220_SUS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES_1220_SUS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES_1220_SUS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Susumu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(0805_VIS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R12(0805_VIS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13(0805_VIS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14(0805_VIS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15(0805_VIS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16(0805_VIS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R17(0805_VIS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=RSW1(GP56010-15)
+Added Component: Designator=SW1(TS02-66-160-BK-100-LCR-D)
+Added Component: Designator=U1(288T232R161A1)
+Added Component: Designator=U2(288T232R161A1)
+Added Component: Designator=U3(SC-70_C5_MCH)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOT-23-5-DBV_TEX)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U5(SOT_SM712)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Bourns Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U6(SOIC20_SO_MCH)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U7(TSSOP24_4P5X7P9_NXP)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "NXP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U8(TDCG1060M_VIS)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=XO1(CB3-3C-64M0000)
+Added Pin To Net: NetName=+2 Pin=C6-2
+Added Pin To Net: NetName=+2 Pin=U3-5
+Added Pin To Net: NetName=+2 Pin=U7-21
+Added Pin To Net: NetName=+2 Pin=U7-24
+Added Net: Name=+2
+Added Pin To Net: NetName=BUZ Pin=LS1-1
+Added Pin To Net: NetName=BUZ Pin=U6-9
+Added Net: Name=BUZ
+Added Pin To Net: NetName=ENA1 Pin=R9-1
+Added Pin To Net: NetName=ENA1 Pin=U1-A
+Added Pin To Net: NetName=ENA1 Pin=U6-5
+Added Net: Name=ENA1
+Added Pin To Net: NetName=ENA2 Pin=R3-1
+Added Pin To Net: NetName=ENA2 Pin=U2-A
+Added Pin To Net: NetName=ENA2 Pin=U6-7
+Added Net: Name=ENA2
+Added Pin To Net: NetName=ENB1 Pin=R10-1
+Added Pin To Net: NetName=ENB1 Pin=U1-B
+Added Pin To Net: NetName=ENB1 Pin=U6-6
+Added Net: Name=ENB1
+Added Pin To Net: NetName=ENB2 Pin=R4-1
+Added Pin To Net: NetName=ENB2 Pin=U2-B
+Added Pin To Net: NetName=ENB2 Pin=U6-8
+Added Net: Name=ENB2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LS1-2
+Added Pin To Net: NetName=GND Pin=RSW1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=U1-C
+Added Pin To Net: NetName=GND Pin=U2-C
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U6-20
+Added Pin To Net: NetName=GND Pin=U7-12
+Added Pin To Net: NetName=GND Pin=XO1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=LED1 Pin=R11-1
+Added Pin To Net: NetName=LED1 Pin=U6-12
+Added Net: Name=LED1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R1-2
+Added Pin To Net: NetName=NetC3_2 Pin=U4-1
+Added Pin To Net: NetName=NetC3_2 Pin=U5-1
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetH3_1 Pin=H3-1
+Added Pin To Net: NetName=NetH3_1 Pin=U6-19
+Added Net: Name=NetH3_1
+Added Pin To Net: NetName=NetH4_1 Pin=H4-1
+Added Pin To Net: NetName=NetH4_1 Pin=U6-18
+Added Net: Name=NetH4_1
+Added Pin To Net: NetName=NetH5_1 Pin=H5-1
+Added Pin To Net: NetName=NetH5_1 Pin=U6-4
+Added Net: Name=NetH5_1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R1-1
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R11-2
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U7-1
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=U8-1
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=U8-2
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=U8-4
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR15_2 Pin=U8-6
+Added Net: Name=NetR15_2
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=U8-10
+Added Net: Name=NetR16_1
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=U8-8
+Added Net: Name=NetR17_2
+Added Pin To Net: NetName=PIN1 Pin=R12-1
+Added Pin To Net: NetName=PIN1 Pin=U7-4
+Added Net: Name=PIN1
+Added Pin To Net: NetName=PIN2 Pin=R13-1
+Added Pin To Net: NetName=PIN2 Pin=U7-5
+Added Net: Name=PIN2
+Added Pin To Net: NetName=PIN3 Pin=U7-6
+Added Pin To Net: NetName=PIN3 Pin=U8-3
+Added Net: Name=PIN3
+Added Pin To Net: NetName=PIN4 Pin=R14-1
+Added Pin To Net: NetName=PIN4 Pin=U7-7
+Added Net: Name=PIN4
+Added Pin To Net: NetName=PIN5 Pin=U7-8
+Added Pin To Net: NetName=PIN5 Pin=U8-5
+Added Net: Name=PIN5
+Added Pin To Net: NetName=PIN6 Pin=R15-1
+Added Pin To Net: NetName=PIN6 Pin=U7-9
+Added Net: Name=PIN6
+Added Pin To Net: NetName=PIN7 Pin=U7-10
+Added Pin To Net: NetName=PIN7 Pin=U8-7
+Added Net: Name=PIN7
+Added Pin To Net: NetName=PIN8 Pin=R17-1
+Added Pin To Net: NetName=PIN8 Pin=U7-11
+Added Net: Name=PIN8
+Added Pin To Net: NetName=PIN9 Pin=U7-13
+Added Pin To Net: NetName=PIN9 Pin=U8-9
+Added Net: Name=PIN9
+Added Pin To Net: NetName=PIN10 Pin=R16-2
+Added Pin To Net: NetName=PIN10 Pin=U7-14
+Added Net: Name=PIN10
+Added Pin To Net: NetName=PIN11 Pin=U7-15
+Added Pin To Net: NetName=PIN11 Pin=U8-11
+Added Net: Name=PIN11
+Added Pin To Net: NetName=PIN12 Pin=U7-16
+Added Pin To Net: NetName=PIN12 Pin=U8-12
+Added Net: Name=PIN12
+Added Pin To Net: NetName=PIN13 Pin=U7-17
+Added Pin To Net: NetName=PIN13 Pin=U8-13
+Added Net: Name=PIN13
+Added Pin To Net: NetName=PIN14 Pin=U7-18
+Added Pin To Net: NetName=PIN14 Pin=U8-14
+Added Net: Name=PIN14
+Added Pin To Net: NetName=PIN15 Pin=U7-19
+Added Pin To Net: NetName=PIN15 Pin=U8-15
+Added Net: Name=PIN15
+Added Pin To Net: NetName=PIN16 Pin=U7-20
+Added Pin To Net: NetName=PIN16 Pin=U8-16
+Added Net: Name=PIN16
+Added Pin To Net: NetName=RST Pin=U6-17
+Added Pin To Net: NetName=RST Pin=U7-3
+Added Net: Name=RST
+Added Pin To Net: NetName=RSW Pin=R5-1
+Added Pin To Net: NetName=RSW Pin=RSW1-2
+Added Pin To Net: NetName=RSW Pin=U6-11
+Added Net: Name=RSW
+Added Pin To Net: NetName=SCL Pin=R7-1
+Added Pin To Net: NetName=SCL Pin=U6-15
+Added Pin To Net: NetName=SCL Pin=U7-22
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=R8-1
+Added Pin To Net: NetName=SDA Pin=U6-16
+Added Pin To Net: NetName=SDA Pin=U7-23
+Added Net: Name=SDA
+Added Pin To Net: NetName=SW1 Pin=R2-1
+Added Pin To Net: NetName=SW1 Pin=SW1-1
+Added Pin To Net: NetName=SW1 Pin=SW1-1
+Added Pin To Net: NetName=SW1 Pin=U6-10
+Added Net: Name=SW1
+Added Pin To Net: NetName=VDDIO2 Pin=C1-2
+Added Pin To Net: NetName=VDDIO2 Pin=C2-2
+Added Pin To Net: NetName=VDDIO2 Pin=C4-2
+Added Pin To Net: NetName=VDDIO2 Pin=C5-2
+Added Pin To Net: NetName=VDDIO2 Pin=C7-2
+Added Pin To Net: NetName=VDDIO2 Pin=C9-2
+Added Pin To Net: NetName=VDDIO2 Pin=C10-2
+Added Pin To Net: NetName=VDDIO2 Pin=C11-2
+Added Pin To Net: NetName=VDDIO2 Pin=H1-1
+Added Pin To Net: NetName=VDDIO2 Pin=R2-2
+Added Pin To Net: NetName=VDDIO2 Pin=R3-2
+Added Pin To Net: NetName=VDDIO2 Pin=R4-2
+Added Pin To Net: NetName=VDDIO2 Pin=R5-2
+Added Pin To Net: NetName=VDDIO2 Pin=R6-2
+Added Pin To Net: NetName=VDDIO2 Pin=R7-2
+Added Pin To Net: NetName=VDDIO2 Pin=R8-2
+Added Pin To Net: NetName=VDDIO2 Pin=R9-2
+Added Pin To Net: NetName=VDDIO2 Pin=R10-2
+Added Pin To Net: NetName=VDDIO2 Pin=U3-1
+Added Pin To Net: NetName=VDDIO2 Pin=U3-3
+Added Pin To Net: NetName=VDDIO2 Pin=U4-5
+Added Pin To Net: NetName=VDDIO2 Pin=U6-1
+Added Pin To Net: NetName=VDDIO2 Pin=U6-13
+Added Pin To Net: NetName=VDDIO2 Pin=U6-14
+Added Pin To Net: NetName=VDDIO2 Pin=U7-2
+Added Pin To Net: NetName=VDDIO2 Pin=XO1-1
+Added Pin To Net: NetName=VDDIO2 Pin=XO1-4
+Added Net: Name=VDDIO2
+Added Pin To Net: NetName=XTAL Pin=C8-2
+Added Pin To Net: NetName=XTAL Pin=U6-2
+Added Pin To Net: NetName=XTAL Pin=XO1-3
+Added Net: Name=XTAL
+Added Class: Name=Schematic_1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

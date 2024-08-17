@@ -1,0 +1,8 @@
+Change Component DesignItemId : Designator=R11 Old DesignItemId=RCG080510R0FKEA New DesignItemId=RNCF0805TKY250R
+Change Component Comment : Designator=R11 Old Comment=100R New Comment=250R
+Change Component Description : Designator=R11 Old Description=100R New Description=250R
+Added Member To Class: ClassName=Schematic_1 Member=Component R13 250R
+Added Member To Class: ClassName=Schematic_1 Member=Component R14 250R
+Added Member To Class: ClassName=Schematic_1 Member=Component R15 250R
+Added Member To Class: ClassName=Schematic_1 Member=Component R16 250R
+Added Member To Class: ClassName=Schematic_1 Member=Component R17 250R
