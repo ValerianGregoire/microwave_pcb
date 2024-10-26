@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=XO1-2
+Change Component DesignItemId : Designator=XO1 Old DesignItemId=CB3-3C-64M0000 New DesignItemId=FO7HHADM320-T1
+Change Component Comment : Designator=XO1 Old Comment=64MHz New Comment=32MHz
+Change Component Description : Designator=XO1 Old Description=64MHz Clock New Description=32MHz Clock
+Added Pin To Net: NetName=CLOUT Pin=U6-3
+Added Pin To Net: NetName=CLOUT Pin=XO1-2
+Added Net: Name=CLOUT
