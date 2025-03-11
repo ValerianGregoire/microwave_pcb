@@ -1,4 +1,4 @@
-# microwave_pcb
+# microwave-pcb
 PCB Design project which aims at recreating a microwave at low voltage. 
 
 
