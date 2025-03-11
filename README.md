@@ -76,7 +76,7 @@ This block is the circuit from which the MCU gets its clock input. The EOH pin o
 This block is the IO expander circuitry. There are SDA and SCL lines for I²C communication. The IO expander is an open-drain device, so the two lines are pulled up. All the PIN outputs are connected to the LED display.
 
 ### 4 Digit LED Display
-![Alt text](./Documents/images/led_display_4d.png?raw=true "4 Digit LED Display") 
+![Alt text](./Documents/images/led_display_4d.png?raw=true "4 Digit LED Display")
 This circuit is the LED Display. The pins 3,5,7,9,11,12,13,14,15,16 are connected to LEDs in parallel. Adding 250 Ohm resistors reduces the current flowing through the diodes while limiting the power dissipated by the resistors. A single resistor with high power dissipation could also have been used in this application.
 
 ### Control Knobs
@@ -85,7 +85,7 @@ This circuit is the LED Display. The pins 3,5,7,9,11,12,13,14,15,16 are connecte
 These blocks are the implementations of the two control knobs. The first block is the encoder, which is open drain as mentioned before. I added two pull-up resistors to compensate for the floating wires. The datasheet mentions a switch bounce of 5ms at most, which can be corrected by the software. The second control knob is the basic integration of an analog device, with POT1 being the cursor.
 
 ### Buzzer
-![Alt text](./Documents/images/buzzer.png?raw=true "Buzzer Circuit") 
+![Alt text](./Documents/images/buzzer.png?raw=true "Buzzer Circuit")
 The buzzer circuit is the simplest in the board; the impedance of this kind of device is such that no additional resistor is required for it to operate.
 
 ### Switches
